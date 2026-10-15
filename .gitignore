@@ -1,15 +1,6 @@
 # Obsidian specific ignores
 .trash/
-.obsidian/workspace*
-.obsidian/workspace.json
-.obsidian/workspace.metadata.json
-.obsidian/backups/
-.obsidian/plugins/*/manifest.json
-.obsidian/plugins/*/styles.css
-.obsidian/themes/*/theme.css
-.obsidian/themes/*/manifest.json
-.obsidian/graph.json
-.obsidian/appearance.json
+.obsidian/
 
 # OS generated files
 .DS_Store
